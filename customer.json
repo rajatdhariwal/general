@@ -874,7 +874,7 @@
     {
         "author": "MikaelDez",
         "title":"What is the future of Jamf? I got an offer as a Jamf administrator. Should I accept?",
-        "url": "https://www.quora.com/Is-JAMF-a-server",
+        "url": "https://qr.ae/p2ZQHa",
         "body": "Thanks for your question. I think Jamf is a solid player in the mobile device management (MDM) and Mac management space. The company has a historic relationship with Apple Field Engineering and is used by Apple internally to manage Apple Retail Store devices. Their support teams have historically been very good, industry leading, but they do have some struggles due to being a bootstrapped company (started in 2002, VC acquisition in 2017, IPO 2020).\n\nIMO there is questionable leadership and they continually access consultants to support their operations, which is common for a large, complex organization. They also struggle with diversity and inclusion, which has become more important in recent years for financial and operational success. The quality of their software and support has slipped over the years due to these recent changes, which enables them to stay current with the market.\n\nWith Fleetsmith being acquired by Apple, versus Jamf, I think the writing is on the wall. Historically companies that are acquired tend to implode, however Jamf went IPO in 2020. It remains a modern tool for Apple device management.",
         "platform": "Quora",
         "useful": "0",
