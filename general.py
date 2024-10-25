@@ -123,9 +123,12 @@ However, the platform's steep learning curve and technical debt in the managemen
             if elem['body']=="":
                 flag=1
             if 'title' in elem and flag==0:
-                st.markdown(elem['title'])
+                st.subheader(elem['title'])
             if 'platform' in elem:
-                 st.markdown(f"Platform : {elem['platform']} | [Open Review]({elem['url']})")
+                if 'upvotes' in elem:
+                    st.markdown(f"Platform : {elem['platform']} | {elem['created'].split()[0]} | [Open Review]({elem['url']}) | Upvotes : {elem['upvotes']}")
+                else:
+                    st.markdown(f"Platform : {elem['platform']} | [Open Review]({elem['url']})")
             else:   
                 st.markdown(f"Platform : Reddit/{elem['subreddit']} | {elem['created'].split()[0]} | [Open Review]({elem['url']}) | Upvotes : {elem['upvotes']}")
             sample_para=elem['body']
