@@ -790,7 +790,7 @@
         "body": "We moved from Kandji to Jamf and although Jamf has a bit of a learning curve, it\u2019s worth it. The compliance editor template is a godsend for quickly applying security policies and the patch management is rock solid compared to Kandji. Kandji also offers less flexibility in terms of pricing. You still have to pay for 50 or 100 devices even if you have half of that and you have to get the entire suite (passport was optional before). There was also a nasty bug we encountered where even after we removed the Kandji MDM profile, the passport (IdP SSO) still stuck around and we weren\u2019t able to enroll it to Jamf forcing us to wipe it. Their initial sales rep also gave us a pricing commitment for 3 years but when it came to renewal after one, the account manager was rotated and they jacked up our prices saying \u201cI don\u2019t know that guy but here\u2019s what we charge.\u201d",
         "subreddit": "macsysadmin",
         "useful": "0",
-        "sentiment": "3",
+        "sentiment": "2",
         "customer_useful": "0",
         "relevance_scores": 9,
         "created": "2024-05-03 18:27:57",
