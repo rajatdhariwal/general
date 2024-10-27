@@ -353,7 +353,7 @@
         "body": "Migrated from JAMF to Intune 2 years back and since then struggling.\n\nDevice Inventory doesn't have location information.\n\nYou can't modify checkin time which is 8 hours cycle. Forced checkin do nothing except inventory collection. Scripts only run when 8 hour checkin cycle is completed.\n\nScripts execution is unreliable on Intune.\n\nCustom packages were not supported earlier but now Intune has a macOS Package policy as only required deployment. Still have detection rule issues. MS Support has no clue whats the problem. Support ticket is open for last 2 months.\n\nCompany Portal self help has unreliable interface. Once you click \"Install\" any software, it takes very long to appear if something is installing or not.\n\nCustom scripts can't be deployed to Company Portal so that users can directly run on their Macs.\n\nNo Printers support\n\nNo option to flush Scripts/Apps logs except remove the policy completely.\n\nNo Smart Group kind of option. In JAMF, whole deployment was automated with the help of Smart Group.",
         "subreddit": "Intune",
         "useful": "0",
-        "sentiment": "3",
+        "sentiment": "2",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-03-07 14:30:30",
