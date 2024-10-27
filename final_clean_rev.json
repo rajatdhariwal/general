@@ -383,7 +383,7 @@
         "body": "Just me. 2.2k mixed between iPads, Macs, and AppleTV's. Not to mention the other 5k+ chrome devices that we as a team manage. Jamf setup takes a hot second, but the maintenance, management, and deployment is a piece of cake once setup. I have another guy who can assign profiles and users to enroll Macs when they come into the shop and need wiped, but he isn't familiar with the creation of the profiles, device groups, account settings, etc. We also have a break glass admin account with all privileges.",
         "subreddit": "jamf",
         "useful": "0",
-        "sentiment": "4",
+        "sentiment": "2",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-07-26 17:34:37",
