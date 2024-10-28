@@ -12,7 +12,7 @@
         "upvotes": 1,
         "relevance_scores": 10,
         "id": 0,
-        "summary": "JAMF is a premium Apple-endorsed management solution ideal for organizations needing extensive customization and zero-touch OS upgrades. While costly, it simplifies complex deployments. For simpler setups, Microsoft's InTune suffices, especially in M365 environments. JAMF excels in curated user experiences but requires significant setup time. It's suitable for large fleets, while InTune suits mixed environments."
+        "summary": "JAMF offers advanced management features for Apple devices, ideal for curated user experiences, but is costly. InTune is suitable for simpler setups."
     },
     {
         "author": "drkstar1982",
@@ -27,7 +27,7 @@
         "upvotes": 4,
         "relevance_scores": 9,
         "id": 1,
-        "summary": "JAMF Pro cloud effectively manages patching through Device Deployment Management (DDM), achieving impressive results. In a global test with 1,260 users, it reached 99% compliance within 24 hours of the scheduled update deadline, demonstrating its efficiency and reliability in ensuring timely software updates."
+        "summary": "JAMF Pro cloud's DDM patching achieved 99% compliance within 24 hours for 1260 worldwide users, demonstrating its effectiveness and efficiency."
     },
     {
         "title": "Recommendations needed - Moving from Jamf to a new MDM, Jamf Connect like features are critical.",
@@ -43,7 +43,7 @@
         "upvotes": 22,
         "relevance_scores": 9,
         "id": 2,
-        "summary": "The text discusses transitioning from Jamf Pro due to cost concerns, considering alternatives like Kandji, Jumpcloud, and Mosyle. The author appreciates Jamf Pro's reliability and features such as Extension Attributes and Smart Groups but notes its expense and occasional technical issues. They seek advice on alternatives, highlighting a preference for robust, cost-effective solutions."
+        "summary": "The user, a Jamf Pro admin, is seeking alternatives due to cost, considering Kandji, Jumpcloud, and Mosyle, while evaluating Jumpcloud for identity management."
     },
     {
         "author": "MDMMAM_Man",
@@ -58,7 +58,7 @@
         "upvotes": 21,
         "relevance_scores": 9,
         "id": 3,
-        "summary": "Jamf remains the leading solution for managing macOS, offering features that simplify administration and enhance user experience, particularly for fleets like 300 Macs. While Intune is improving for iOS and iPadOS, Jamf still has an edge, especially with its strong support and positive feedback from engineers."
+        "summary": "Jamf remains the leading choice for managing MacOS, offering superior features and support, enhancing admin efficiency and user experience compared to Intune."
     },
     {
         "title": "Jamf Pro provides excellent customer support and has helped us improve our overall productivity.",
@@ -73,7 +73,22 @@
         "platform": "G2 ",
         "relevance_scores": 9,
         "id": 4,
-        "summary": "Jamf Pro offers a user-friendly platform with customizable dashboards and visually appealing reports, though offline reporting options are limited. It supports remote administration, essential for managing devices remotely, and ensures endpoint security against cyber threats. Integration with Okta and Google enhances identity management, safeguarding access to corporate infrastructure."
+        "summary": "Jamf Pro offers customizable dashboards, simplified reports, and remote administration, enhancing endpoint security and identity management integration, though offline reporting capabilities are limited."
+    },
+    {
+        "title": "IT Admin",
+        "author": "Santosh P.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9695193",
+        "body": "I especially like the extension attribute and prestige enrollment. the support from the jamf team is very Good. All the Jamf tools are so user-friendly.There is nothing to dislike about Jamf, whatever things are required we can get from the documents and the Jamf community pages.We have 3000+ Mac Devices and it was difficult to manage in a proper way on Intune we moved to jamf after migrated all things ran so smoothly and jamf pro is user friendly MDM which we like most,",
+        "useful": "0",
+        "sentiment": "2",
+        "customer_useful": "0",
+        "relevance_score": "8",
+        "rating": 4.5,
+        "platform": "G2 ",
+        "relevance_scores": 8,
+        "id": 5,
+        "summary": "Jamf provides excellent support and user-friendly tools, making it ideal for managing over 3000 Mac devices smoothly after transitioning from Intune."
     },
     {
         "title": "Amazing experience, and easy to use",
@@ -87,8 +102,8 @@
         "rating": 5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 5,
-        "summary": "Jamf Pro simplifies Apple device management, even for those without prior experience. It efficiently manages a range of devices, from computers to iPads and Apple TVs, with easy profile enrollments. The support is responsive and helpful. While it lacks the ability to add Apple accounts directly, it remains a cost-effective solution."
+        "id": 6,
+        "summary": "Jamf Pro simplifies Apple device management for users without prior experience, offers excellent support, and is cost-effective, though lacks Apple account integration for devices."
     },
     {
         "title": "Easy to use and easy to maintain",
@@ -102,8 +117,8 @@
         "rating": 5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 6,
-        "summary": "Jamf provides a flexible and efficient solution for managing devices, allowing for both simple and advanced configurations. It effectively resolves management issues and facilitates easy deployment for remote and office users. While some connectivity issues persist, they are manageable, and Jamf empowers user self-sufficiency through its self-service features."
+        "id": 7,
+        "summary": "Jamf simplifies device management, enabling quick issue resolution and empowering user self-sufficiency, despite occasional connectivity issues easily resolved with a device wipe."
     },
     {
         "title": "Jamf Pro great for One to One Apple Environments",
@@ -117,8 +132,8 @@
         "rating": 4.5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 7,
-        "summary": "Jamf Pro offers a user-friendly interface with extensive capabilities for managing Apple devices. It supports customization for organizational needs and integrates seamlessly with other Jamf products like Protect and Connect. Despite some customer service issues, Jamf Pro efficiently manages a large fleet of Apple devices, simplifying setup and monitoring processes."
+        "id": 8,
+        "summary": "Jamf Pro offers a user-friendly interface and robust capabilities for managing Apple devices, with customizable features and seamless integration, despite occasional customer service issues."
     },
     {
         "title": "Easy and robust!",
@@ -132,8 +147,8 @@
         "rating": 4.5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 8,
-        "summary": "Jamf Pro simplifies device fleet management with an intuitive interface and features like Locate Device, remote wipe, and inventory tracking. While navigating back to searches can be cumbersome, Jamf centralizes Apple fleet management, enhancing productivity and enabling swift updates and program rollouts. Overall, it offers efficient and convenient device management."
+        "id": 9,
+        "summary": "Jamf Pro streamlines device management with an intuitive interface, offering features like Locate Device and remote wipe, enabling efficient centralized management of Apple devices."
     },
     {
         "title": "Jamf, the perfect MDM for Apple",
@@ -147,8 +162,8 @@
         "rating": 5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 9,
-        "summary": "Jamf simplifies managing Apple products, whether institutionally owned or personal BYOD devices, including Macs, iPads, and AppleTVs. It allows for executing simple commands and advanced tasks like pushing scripts. Despite limitations due to Apple's restrictions, Jamf Pro effectively manages Apple devices, offering benefits like applying restrictions and distributing applications and scripts."
+        "id": 10,
+        "summary": "Jamf simplifies managing Apple products, allowing control over institutional and personal devices. It enhances device management, despite some limitations imposed by Apple."
     },
     {
         "title": "The gold standard of Apple management for a reason",
@@ -162,8 +177,8 @@
         "rating": 4.5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 10,
-        "summary": "Jamf Pro streamlines device management by allowing dynamic, automatic updates and configurations, enhancing flexibility and responsiveness. Despite its tech debt and outdated management console, it efficiently enforces policies and settings across devices. Its capabilities were demonstrated during a printer deployment, contrasting with the manual, error-prone process on non-Jamf devices."
+        "id": 11,
+        "summary": "Jamf Pro enables dynamic, automated configuration management, enhancing flexibility and efficiency, despite tech debt and outdated console, by allowing remote, policy-driven device updates."
     },
     {
         "title": "Succeed with Jamf",
@@ -177,8 +192,8 @@
         "rating": 5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 11,
-        "summary": "Jamf enables efficient remote management of numerous Apple devices, streamlining tasks like app installation and removal without physical access. Despite its steep learning curve, Jamf simplifies device management and is supported by a robust community and resources. It enhances user experience by providing real-time access and support, offering significant benefits and features."
+        "id": 12,
+        "summary": "Jamf enables remote management of Apple devices, simplifying tasks like app installation. Despite a steep learning curve, it offers strong support and community resources."
     },
     {
         "title": "Mac Management Made Easy",
@@ -192,23 +207,8 @@
         "rating": 5,
         "platform": "G2 ",
         "relevance_scores": 9,
-        "id": 12,
-        "summary": "Jamf Pro significantly reduces Mac setup time to zero for both end-users and IT deployment. It enhances security by enabling the deployment of security tools across all Macs, providing instant reports on device compliance, and strengthening the organization's security posture, despite limitations like unlocking local accounts from the FileVault screen."
-    },
-    {
-        "title": "Been on Jamf since Casper!",
-        "author": "Matthew S W.",
-        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-8051815",
-        "body": "Simplest management for macOS that I have experienced. Allowed me to easily create a near zero-touch deployment model that our Service Center loves.I wouldn't say there are downsides. The few issues I have are really related to our legacy on-prem environment not having script editing on the site.Mass management of our macOS fleet. We have easily been able to configure a consistent security baseline that we can be sure is securing our endpoints.",
-        "useful": "0",
-        "sentiment": "2",
-        "customer_useful": "0",
-        "relevance_score": "9",
-        "rating": 4.5,
-        "platform": "G2 ",
-        "relevance_scores": 9,
         "id": 13,
-        "summary": "Jamf provides efficient macOS management, enabling near zero-touch deployment, which is highly appreciated by service centers. It facilitates mass management and ensures a consistent security baseline for endpoints. Challenges are minimal and mainly stem from legacy on-premise environments lacking script editing capabilities."
+        "summary": "Jamf Pro streamlines Mac setup to zero time, enhances security by deploying tools, and provides instant monitoring and reporting for organizational devices."
     },
     {
         "title": "Jamf: A Disappointment in Every Way",
@@ -224,7 +224,7 @@
         "platform": "Quora",
         "relevance_scores": 9,
         "id": 14,
-        "summary": "The review highlights significant dissatisfaction with Jamf, describing it as a \"glorified mess.\" Issues include unreliable remote assistance tools, frequent failures in critical update management, and poor customer support. The reviewer advises against using Jamf, citing frustrations and inefficiencies that undermine its effectiveness as an IT management solution."
+        "summary": "The review criticizes Jamf for unreliable remote assistance tools, failed update management, and poor customer support, advising against its use due to frustration and inefficiency."
     },
     {
         "title": "Jamf: Great Features, but Lacking in Customer Support",
@@ -240,7 +240,7 @@
         "platform": "Quora",
         "relevance_scores": 9,
         "id": 15,
-        "summary": "While Jamf offers promising features for IT management, its value is questioned due to inconsistent customer support, unreliable patch management, and remote support issues. The outdated user interface and unclear documentation further complicate navigation. These challenges lead to significant downtime and manual work, prompting consideration of alternative solutions."
+        "summary": "Jamf offers promising IT management features, but inconsistent customer support, unreliable patch management, and outdated interface hinder its overall effectiveness and value."
     },
     {
         "author": "ObjectiveAthlete2437",
@@ -248,14 +248,14 @@
         "body": "You can't really scale with Kandji as witnessed with most organisations with a large install base. From the automated remediation perspective, nothing beats Jamf Pro and Jamf Protect, which is fully integrated for sub minute response. Aside from that, Kandji has limited runway in terms of financing and funding from investors. They are literally on a cash burn without any solid plans for the future. I wouldn't bet my career on a company that might go bust anytime soon.",
         "subreddit": "macsysadmin",
         "useful": "0",
-        "sentiment": "2",
+        "sentiment": "3",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-03-25 17:42:24",
         "upvotes": 7,
         "relevance_scores": 8,
         "id": 16,
-        "summary": "Jamf Pro and Jamf Protect offer superior scalability and automated remediation compared to Kandji, making them ideal for large organizations. Jamf's integration enables rapid response, while Kandji faces financial instability and limited investor support, posing risks for long-term reliability and growth."
+        "summary": "Jamf Pro and Jamf Protect offer superior scalability and automated remediation compared to Kandji, which faces financial instability and limited growth prospects."
     },
     {
         "author": "sudo_brandon",
@@ -263,14 +263,14 @@
         "body": "We \"evaluting\" Kandji as a \"cost saving\"... and by we it's the royal we.  I'm a long time Jamf Pro admin (since Casper).  Yes there is a learning curve but the community resources here and on Slack are a huge benefit.  With Jamf Pro you get the fine controls that Kandji does not offer.  Advanced Searches with email schedules, Smart Groups (worth every dime) and Extension Attributes allow for workflows and automation, and huge list of API commands.  I would not be able to do my job as efficiently on Kandji.  I am constantly pulled into Security meetings to help identify and remediate vulnerabilities in our computers.  Using Extension Attributues to identify subjects, Smart Groups as the target of custom policies that deliver a remediation script or package, all automated and reported is just not do able in Kandji.  Jamf Pro crushes it every time.\n\nIf you are a small organization of less than 100 then okay I can see the use case for Kandji but you get what you pay for.  \n\nWatch this video from Rocketman covering their review of Kandji vs. Jamf Pro.  [https://youtu.be/XQJelQ7Qttg?si=mTYyAM\\_3SZs4CKP4](https://youtu.be/XQJelQ7Qttg?si=mTYyAM_3SZs4CKP4)",
         "subreddit": "macsysadmin",
         "useful": "0",
-        "sentiment": "4",
+        "sentiment": "2",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-05-07 16:05:34",
         "upvotes": 2,
         "relevance_scores": 8,
         "id": 17,
-        "summary": "Jamf Pro offers advanced features like Smart Groups, Extension Attributes, and extensive API commands, enabling efficient workflows and automation, essential for large organizations. While Kandji might suit smaller organizations, Jamf Pro's capabilities, especially in security and vulnerability management, make it indispensable for larger setups. Community support further enhances its usability."
+        "summary": "Jamf Pro offers superior control, automation, and security features compared to Kandji, making it essential for larger organizations despite Kandji's cost-saving appeal."
     },
     {
         "author": "Transmutagen",
@@ -285,7 +285,7 @@
         "upvotes": 3,
         "relevance_scores": 8,
         "id": 18,
-        "summary": "The user relies on Jamf for reimaging and managing over 300 macOS computers annually, appreciating its granular customization. While Kandji might suit beginners, the user finds Jamf irreplaceable for its efficiency and effectiveness in handling complex tasks, indicating a strong preference for Jamf's capabilities over Kandji."
+        "summary": "Jamf efficiently supports the annual reimaging and year-round management of over 300 macOS computers, offering unmatched granularity and customization compared to Kandji."
     },
     {
         "author": "cjducasse",
@@ -300,7 +300,7 @@
         "upvotes": 0,
         "relevance_scores": 8,
         "id": 19,
-        "summary": "The text discusses the challenge of transitioning 400 Macs and 5000 mobile devices, which required wiping and reconfiguration. Despite the significant effort, the potential savings were minimal as the alternative provider couldn't match JAMF's pricing. The devices are distributed across the lower 48 states, complicating the process."
+        "summary": "The project involved wiping and reconfiguring 400 Macs and 5000 mobile devices across the U.S., but JAMF's pricing made the effort financially unviable."
     },
     {
         "author": "Transmutagen",
@@ -315,7 +315,7 @@
         "relevance_scores": 8,
         "upvotes": 2,
         "id": 20,
-        "summary": "The author has extensive experience with Jamf, appreciating its customizable features like extension attributes, smart groups, policies, and the API for device management. While Kandji offers similar functionality with added tools for app deployments and compliance, the author prefers Jamf Pro for its flexibility and customization, despite Kandji's affordability and ease of use."
+        "summary": "Jamf offers customizable device management through extension attributes, smart groups, and APIs, preferred for tailored solutions, contrasting with Kandji's more straightforward, built-in approach."
     },
     {
         "author": "Rocketman-Tech",
@@ -323,14 +323,14 @@
         "body": "Here's my main advice: \n\nMac Computers: Intune is okay IF you don't currently have management and you want to do something that is \"good enough\" - but Intune doesn't compete with other MDMs (like Jamf Pro) built specifically for the Apple platform. Mac really feels like a side note for them. I will also note that Jamf Pro has some amazing integrations with Intune, so using BOTH platforms is actually the best.\n\niOS devices: InTune is a bit better for iOS. However, one of the major drawbacks is that it takes 8 - 24 HOURS to send any MDM command, where as Jamf Pro (and most other MDMs) will take less than 1 MINUTE.",
         "subreddit": "sysadmin",
         "useful": "0",
-        "sentiment": "4",
+        "sentiment": "2",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-06-25 15:09:24",
         "upvotes": 12,
         "relevance_scores": 8,
         "id": 21,
-        "summary": "Jamf Pro is superior to Intune for managing Mac computers due to its Apple-specific design and quick command execution, making it more effective than Intune's slower response time. For iOS devices, while Intune offers some advantages, Jamf Pro's faster MDM command execution makes it a preferable choice. Integrating both platforms can optimize management."
+        "summary": "Jamf Pro excels in managing Apple devices, offering rapid command execution and strong Intune integrations, outperforming Intune's slower response times and limited Apple focus."
     },
     {
         "author": "TheAnniCake",
@@ -338,14 +338,14 @@
         "body": "What bothers me most with Intune is the \u201espeed\u201c. Almost every other MDM managed to instantly check the device in and apply new configs within seconds. Intune can take hours.\n\nOverall, the config templates don\u2019t really cover much but if you can script whatever you need to do, it\u2019s doable.\n\nJamf also has their extension attributes which are a huge advantage in my eyes. Sadly some customers don\u2019t see this the same way. Group creation alone is so much more dynamic with this. Intune\u2018s groups are.. bad in comparison. Hardly any really usable attributes and as of now I haven\u2019t found any way of using something like EA.\n\nFor a \u201efree\u201c product it\u2019s certainly not bad. For mobile devices it\u2019s become fairly good, but I\u2018d never recommend using it for macs.",
         "subreddit": "sysadmin",
         "useful": "0",
-        "sentiment": "4",
+        "sentiment": "2",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-06-25 15:49:06",
         "upvotes": 1,
         "relevance_scores": 8,
         "id": 22,
-        "summary": "Jamf offers significant advantages over Intune, particularly with its extension attributes and dynamic group creation, which enhance device management. While Intune is seen as slow and limited in configuration options, Jamf provides more flexibility and efficiency, making it a preferable choice for managing Macs, despite some customer disagreements."
+        "summary": "Jamf excels with dynamic group creation and extension attributes, offering faster device management compared to Intune, which is slower and less flexible for Macs."
     },
     {
         "author": "raviyadav432",
@@ -360,7 +360,7 @@
         "upvotes": 23,
         "relevance_scores": 8,
         "id": 23,
-        "summary": "The transition from JAMF to Intune has been challenging, with issues like missing location data in device inventory, inflexible check-in cycles, unreliable script execution, and detection rule problems with custom packages. Intune lacks features like JAMF's Smart Group, printer support, and effective Company Portal self-help, complicating device management."
+        "summary": "Migrating from JAMF to Intune has resulted in challenges like unreliable script execution, limited customization, and lack of automation features like Smart Groups."
     },
     {
         "author": "RefrigeratorFancy730",
@@ -375,7 +375,7 @@
         "upvotes": 2,
         "relevance_scores": 8,
         "id": 24,
-        "summary": "Jamf offers advanced features like SmartGroups, which are more flexible than AAD dynamic groups, allowing users to create groups based on specific software installations. Its intuitive GUI facilitates easy categorization and reporting, making it superior to standalone Intune in these aspects for managing MacOS and iOS devices."
+        "summary": "Jamf offers advanced features like SmartGroups for MacOS and iOS, providing more flexibility and intuitive reporting compared to Intune's current capabilities."
     },
     {
         "author": "ResponseThick751",
@@ -383,14 +383,14 @@
         "body": "Just me. 2.2k mixed between iPads, Macs, and AppleTV's. Not to mention the other 5k+ chrome devices that we as a team manage. Jamf setup takes a hot second, but the maintenance, management, and deployment is a piece of cake once setup. I have another guy who can assign profiles and users to enroll Macs when they come into the shop and need wiped, but he isn't familiar with the creation of the profiles, device groups, account settings, etc. We also have a break glass admin account with all privileges.",
         "subreddit": "jamf",
         "useful": "0",
-        "sentiment": "2",
+        "sentiment": "4",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-07-26 17:34:37",
         "upvotes": 1,
         "relevance_scores": 8,
         "id": 25,
-        "summary": "The text discusses managing a mixed fleet of 2.2k Apple devices using Jamf, highlighting the ease of maintenance, management, and deployment once set up. It mentions a team member who assigns profiles and enrolls Macs but lacks expertise in profile creation and settings. A break glass admin account with full privileges is also maintained."
+        "summary": "Jamf simplifies the maintenance, management, and deployment of Apple devices after initial setup, streamlining profile assignments and user enrollments for efficient device management."
     },
     {
         "author": "Sea-String7303",
@@ -405,7 +405,7 @@
         "upvotes": 2,
         "relevance_scores": 8,
         "id": 26,
-        "summary": "Jamf School offers an affordable device management solution at $9 per device annually, allowing users to save money by managing devices independently without needing to hire an expert."
+        "summary": "Jamf School offers affordable device management at $9 per device annually, enabling users to manage devices independently without hiring an expert."
     },
     {
         "author": "MacAdminInTraning",
@@ -413,14 +413,14 @@
         "body": "You can only manage OS updates through MDM. JAMF has the MDM and DDM commands for OS updates on the left side bar. \n\nApples management of OS updates leaves a lot to be desired. \n\nTools like nudge and Superman are fine for user notifications, but they do nothing more than notify the user. If the user does not elect to install the update manually, those tools cannot force the device to update and due to that are not really worth the headache in configuration anymore.",
         "subreddit": "macsysadmin",
         "useful": "0",
-        "sentiment": "2",
+        "sentiment": "4",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-06-03 19:24:15",
         "upvotes": -1,
         "relevance_scores": 8,
         "id": 27,
-        "summary": "Jamf provides MDM and DDM commands for managing OS updates, addressing limitations in Apple's update management. While tools like Nudge and Superman can notify users about updates, they cannot enforce installations, making them less effective and cumbersome to configure compared to Jamf's capabilities."
+        "summary": "Jamf provides MDM and DDM commands for managing OS updates, offering more effective solutions than tools like Nudge and Superman, which only notify users."
     },
     {
         "author": "theitguy1969",
@@ -435,7 +435,7 @@
         "upvotes": 4,
         "relevance_scores": 8,
         "id": 28,
-        "summary": "Jamf Connect streamlines device management by syncing Azure and local account passwords, eliminating the need for multiple passwords. It enhances zero-touch deployments by creating local accounts on first login. Users primarily log in twice only after reboots, simplifying account management compared to traditional AD-bound devices."
+        "summary": "Jamf Connect simplifies device management by syncing Azure and local passwords, streamlining logins, especially effective for zero-touch deployments and reducing password management hassle."
     },
     {
         "author": "handsomemagenta",
@@ -450,7 +450,7 @@
         "upvotes": 2,
         "relevance_scores": 8,
         "id": 29,
-        "summary": "Jamf has significantly improved over the years, simplifying Mac management for admins and end users. With a decade of expertise, the product's evolution has eased enterprise deployment, despite the learning curve with alternatives like Endpoint Manager. Jamf's global expansion and resources enhance its ability to support Apple's enterprise integration."
+        "summary": "Jamf simplifies Mac management for admins and users, evolving over a decade to enhance enterprise compatibility and global growth, despite learning curves with alternatives."
     },
     {
         "author": "Dazed1",
@@ -465,7 +465,7 @@
         "upvotes": 5,
         "relevance_scores": 8,
         "id": 30,
-        "summary": "Jamf provides seamless deployment and integration with Jamf Pro, making it easy to manage around 1,100 endpoints. It offers useful features like blocking software execution by bundle or team ID and includes CIS benchmarks. Jamf excels in day-one support for new macOS versions, outperforming other EDR solutions like SentinelOne in compatibility and ease of maintenance."
+        "summary": "Jamf offers seamless deployment, strong macOS support, and useful features like software blocking and CIS benchmarks, making it a preferred choice over other EDRs."
     },
     {
         "author": "EnricoDandoloThaDOV",
@@ -473,14 +473,14 @@
         "body": "Currently using it in our environment of ~5000 devices. A few takeaways:\n\n- pretty easy to deploy. Basically a .app package with a configuration profile. Syncing plans with your Jamf Pro Server is also a nice way to keep the various Plan configurations you make up to date. \n- Analytics is a pretty powerful feature. Takes some investment in learning how to write queries (this is also changing soon), but once you know how to do it there's a lot you can do with it.\n- the Jamf Security Cloud portion has a slightly harder configuration, because it a bit confusing on how to actually get the data from your endpoints that you want. \n- works best when you have a dedicated SIEM tool you're already using. Data Forwarding sources are pretty flexible for sending Telemetry Data, but they really intend for you to do a lot of analysis of events outside of the Mac Security Portal.",
         "subreddit": "macsysadmin",
         "useful": "0",
-        "sentiment": "4",
+        "sentiment": "2",
         "customer_useful": "0",
         "relevance_score": "8",
         "created": "2024-07-11 17:17:10",
         "upvotes": 3,
         "relevance_scores": 8,
         "id": 31,
-        "summary": "Jamf is effectively used in a 5,000-device environment, offering easy deployment and syncing with Jamf Pro Server. Its powerful analytics feature requires some learning for query writing. The Jamf Security Cloud configuration can be confusing, and it works best with a dedicated SIEM tool for external event analysis."
+        "summary": "Jamf is effective for deploying and managing ~5000 devices, offering powerful analytics and flexible data forwarding, though security configuration can be complex."
     },
     {
         "author": "MikaelDez",
@@ -495,7 +495,7 @@
         "upvotes": 2,
         "relevance_scores": 8,
         "id": 32,
-        "summary": "The text highlights a positive experience with Jamf, emphasizing its role in simplifying job tasks and stabilizing the Mac environment. The user expresses satisfaction with Jamf's management capabilities and doubts any other mobile device management (MDM) solution could surpass it unless they offer solutions beyond Jamf's capabilities."
+        "summary": "Jamf significantly simplifies job tasks, stabilizes Mac environments, and is preferred over alternatives unless they offer solutions Jamf cannot provide."
     },
     {
         "author": "hunterkll",
@@ -510,7 +510,7 @@
         "upvotes": 10,
         "relevance_scores": 8,
         "id": 33,
-        "summary": "JAMF is highly recommended for managing any number of machines due to its comprehensive features and ease of setup, especially with JAMF Cloud. It is considered superior to competitors like Intune and AirWatch, which lack complete features. JAMF Cloud is particularly advantageous for tasks like conditional access integration."
+        "summary": "JAMF is the top choice for managing any number of machines, offering easy setup and superior features, especially with JAMF cloud for integration needs."
     },
     {
         "title": "What is the future of Jamf? I got an offer as a Jamf administrator. Should I accept?",
@@ -526,7 +526,7 @@
         "platform": "Quora",
         "relevance_scores": 8,
         "id": 34,
-        "summary": "Jamf is a key player in mobile device and Mac management, with a strong historical relationship with Apple. Despite its industry-leading support, Jamf faces challenges due to leadership issues and diversity struggles. The company went public in 2020, maintaining its relevance in Apple device management despite competition from Apple's acquisition of Fleetsmith."
+        "summary": "Jamf is a key player in Apple device management, known for strong support but faces challenges in leadership, diversity, and maintaining software quality."
     },
     {
         "title": "JAMF Pro has good support and training",
@@ -541,7 +541,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 35,
-        "summary": "The support from JAMF is exceptional, with monthly meetings to discuss new features and project assistance. The training classes are informative, aiding in certification. JAMF is crucial for managing mobile devices and ensuring secure setups for remote employees. While the UI could improve, recent updates have enhanced usability."
+        "summary": "JAMF provides excellent support, detailed monthly meetings, and effective training, facilitating device management and security for remote companies, despite a steep learning curve and UI improvements needed."
     },
     {
         "title": "Robust system, great customer service",
@@ -556,7 +556,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 36,
-        "summary": "Jamf Pro simplifies managing iPads and MacBooks, offering an app catalog that reduces the need for frequent software packaging. It integrates with Google for unified logins and provides customizable device enrollment. While it excels in customer service, it lags behind competitors like Mosyle in some features and user interface design."
+        "summary": "Jamf Pro simplifies iPad and MacBook management with an app catalog, Google integration, and excellent customer service, though it trails competitors in some features."
     },
     {
         "title": "One stop MDM",
@@ -571,22 +571,22 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 37,
-        "summary": "Since transitioning to Jamf Cloud, functions like package distribution and device reach have improved, enabling new integrations with Azure and Jamf Connect. While the service desk faces challenges, support workflows have improved. Efforts are underway to utilize MDM mass action commands for Apple updates, though reliability remains a concern."
+        "summary": "Jamf Cloud enhances package distribution and device reach, supports new integrations, and improves support workflow, though MDM mass action commands remain unreliable for production."
     },
     {
-        "title": "IT Admin",
-        "author": "Santosh P.",
-        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-9695193",
-        "body": "I especially like the extension attribute and prestige enrollment. the support from the jamf team is very Good. All the Jamf tools are so user-friendly.There is nothing to dislike about Jamf, whatever things are required we can get from the documents and the Jamf community pages.We have 3000+ Mac Devices and it was difficult to manage in a proper way on Intune we moved to jamf after migrated all things ran so smoothly and jamf pro is user friendly MDM which we like most,",
+        "title": "Been on Jamf since Casper!",
+        "author": "Matthew S W.",
+        "url": "https://www.g2.com/products/jamf-pro/reviews/jamf-pro-review-8051815",
+        "body": "Simplest management for macOS that I have experienced. Allowed me to easily create a near zero-touch deployment model that our Service Center loves.I wouldn't say there are downsides. The few issues I have are really related to our legacy on-prem environment not having script editing on the site.Mass management of our macOS fleet. We have easily been able to configure a consistent security baseline that we can be sure is securing our endpoints.",
         "useful": "0",
         "sentiment": "2",
         "customer_useful": "0",
-        "relevance_score": "8",
+        "relevance_score": "9",
         "rating": 4.5,
         "platform": "G2 ",
-        "relevance_scores": 8,
+        "relevance_scores": 9,
         "id": 38,
-        "summary": "Jamf is praised for its user-friendly tools, effective support, and comprehensive resources, including extension attributes and prestige enrollment. Transitioning from Intune to Jamf Pro significantly improved the management of over 3000 Mac devices, highlighting Jamf's efficiency and ease of use as a mobile device management (MDM) solution."
+        "summary": "Jamf simplifies macOS management, enabling near zero-touch deployment and consistent security baselines, despite minor legacy on-prem environment script editing issues."
     },
     {
         "title": "Outstanding MDM",
@@ -601,7 +601,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 39,
-        "summary": "Jamf Pro streamlines device management, enabling efficient pre-stage enrollments and re-imaging of iPads. It offers exceptional support and ease of remote management for iPads and Macs, allowing for seamless application installations based on teachers' needs. Overall, it's a reliable and effective solution with minimal drawbacks."
+        "summary": "Jamf Pro streamlines device management by enabling pre-stage enrollments, remote management, and application installations, with exceptional support and user-friendly functionality for iPads and Macs."
     },
     {
         "title": "Jamf Pro in a K-12 environment",
@@ -616,7 +616,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 40,
-        "summary": "Jamf Pro is a user-friendly MDM solution that efficiently manages Apple devices, ensuring they are updated with the latest software and OS patches. Accessible anytime from anywhere, it offers centralized management and enhances device security, saving IT labor. The Jamf Nation community is invaluable for support and collaboration, fostering continuous improvement."
+        "summary": "Jamf Pro is an effective MDM solution offering centralized Apple device management, accessible globally, with strong community support and continuous feature enhancements."
     },
     {
         "title": "Jamf continues to be the go to Mac MDM in the market!",
@@ -631,7 +631,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 41,
-        "summary": "Jamf offers an easy-to-use interface and integrates with major platforms like Intune. The supportive Jamf Nation community assists with issues. While device count can escalate costs, Jamf efficiently manages devices by applying configuration profiles and pushing policies and updates instantly, significantly saving time for organizations."
+        "summary": "Jamf offers an easy-to-use interface, integrates with major platforms, and provides community support, but managing high device counts can lead to increased costs."
     },
     {
         "title": "Best MDM for Apple devices that we know",
@@ -646,7 +646,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 42,
-        "summary": "Jamf offers an intuitive management interface for overseeing Apple devices, making it easy to configure advanced settings and deploy scripts, applications, and policies. Despite occasional sluggishness in monitoring, Jamf effectively helps manage Mac OS fleets, ensuring IT maintains control over MacBooks regardless of their location."
+        "summary": "Jamf provides an intuitive management interface for configuring advanced settings, deploying scripts, and monitoring policies, ensuring control over your Apple device fleet."
     },
     {
         "title": "Excellent solution for our organization",
@@ -661,7 +661,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 43,
-        "summary": "Implementing Jamf Connect significantly improved password management and reduced support requests at the company. It eliminated the need to bind Macs to the domain, preventing numerous issues. Jamf Connect's user-friendly interface and straightforward update process via Jamf Pro have streamlined operations, though further UI enhancements could enhance user understanding."
+        "summary": "Implementing Jamf Connect reduced support requests and simplified password management, eliminating the need to bind Macs to the domain, enhancing user experience."
     },
     {
         "title": "Jamf Admin - Tufts University",
@@ -676,7 +676,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 44,
-        "summary": "Jamf Connect is crucial for deploying Macs with zero-touch technology, allowing users to set up devices by signing in and syncing passwords. This enhances user experience with drop-shipped Macs. While still learning, greater compatibility with various identity platforms is desired, as the current setup doesn't use Okta. Overall, the process is positively received."
+        "summary": "Jamf Connect enables zero-touch Mac deployment, allowing users to set up devices independently, enhancing password management, though compatibility with diverse identity platforms is desired."
     },
     {
         "title": "Jamf Connect streamlines onboarding even further!",
@@ -691,7 +691,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 45,
-        "summary": "Integrating Azure AD and Google Workspace with Jamf Pro using Jamf Connect simplifies Mac provisioning, allowing users to self-configure their devices without IT intervention. Despite initial complexity, the custom user experience and efficiency gains are significant. Jamf's onboarding support is recommended due to necessary customizations. The integration streamlines user account creation and synchronization, enhancing IT efficiency."
+        "summary": "Jamf Connect simplifies Mac provisioning by integrating Azure AD and Google Workspace, enabling user self-provisioning and reducing IT involvement, enhancing efficiency and user experience."
     },
     {
         "title": "I heart Jamf Connect",
@@ -706,7 +706,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 46,
-        "summary": "Jamf Connect significantly improved user and admin experience by seamlessly integrating Azure credentials, eliminating the need for local accounts, and ensuring a single password system. Unlike Nomad, which had persistent bugs, Jamf Connect functioned reliably, simplifying account management and enhancing security by automatically updating credentials with Active Directory changes."
+        "summary": "Jamf Connect simplifies admin tasks by enabling Azure credential use, replacing local accounts, and resolving issues faced with Nomad, enhancing overall efficiency."
     },
     {
         "title": "Simplify Mac Deployment",
@@ -721,7 +721,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 47,
-        "summary": "Jamf Connect streamlines the deployment of new Macs by enabling remote setup without IT intervention, significantly reducing time and support needs. While initial setup can be complex, Jamf offers professional services and community support. It efficiently manages user account creation and software installation, ideal for fully remote companies."
+        "summary": "Jamf Connect streamlines remote Mac deployments, reducing setup time and support calls, while providing robust support through professional services and community resources."
     },
     {
         "title": "Jamf Connect makes our Mac Deployment really user-friendly.",
@@ -736,7 +736,7 @@
         "platform": "G2 ",
         "relevance_scores": 8,
         "id": 48,
-        "summary": "Jamf Connect significantly streamlines MacBook setup and password management for our company. It enables seamless local account creation and password synchronization without needing physical admin intervention. Despite a minor SSO extension bug, quickly resolved with an update, Jamf Connect has proven reliable and effective, supported by excellent customer service."
+        "summary": "Jamf Connect streamlines MacBook setup and password management, enhancing efficiency and reducing admin intervention. It offers reliable support and quick bug fixes."
     },
     {
         "author": "Alternative_Sense938",
@@ -751,7 +751,7 @@
         "upvotes": 7,
         "relevance_scores": 7,
         "id": 49,
-        "summary": "The switch from Jamf Cloud to Kandji was positively received, with Kandji offering a more user-friendly, out-of-the-box experience compared to Jamf's toolbox approach. Kandji's layout, features, and device enrollment process were praised. Despite a migration challenge with Wi-Fi profiles, the transition was successful. Kandji's licensing model and support, except for migration specialist responsiveness, were appreciated."
+        "summary": "The switch from Jamf to Kandji was smooth, with Kandji offering a user-friendly, ready-to-use interface, efficient migration, and better device management features."
     },
     {
         "title": "Jamf Didn\u2019t Meet Our Needs in Fintech",
@@ -767,7 +767,7 @@
         "platform": "Quora",
         "relevance_scores": 9,
         "id": 50,
-        "summary": "As an IT Manager in a fintech company, implementing Jamf for device management proved inadequate. The platform struggled with unreliable remote support, inconsistent patch management, and scalability issues. The steep learning curve and basic reporting tools failed to meet compliance needs, prompting the search for more reliable alternatives for large-scale environments."
+        "summary": "Jamf struggled to meet the demands of a large fintech company, with issues in remote support, patch management, scalability, and compliance, prompting a search for alternatives."
     },
     {
         "title": "Jamf is a must have for any Apple centric organization",
@@ -782,7 +782,7 @@
         "platform": "G2 ",
         "relevance_scores": 9,
         "id": 51,
-        "summary": "Jamf's smart groups offer efficient device management, simplifying app and policy deployment. Its extensive features enhance mobile device tuning. The customer success representative, Taylor, provides exceptional support. Jamf streamlines remote device deployment, crucial for onboarding in a remote company. It effectively manages over 1,000 devices, ensuring compliance and timely updates."
+        "summary": "Jamf's smart groups streamline device management and app deployment, enhancing efficiency. Its robust features and exceptional customer support optimize remote onboarding and compliance for over 1000 devices."
     },
     {
         "author": "Cosmic_Shipwright",
@@ -796,6 +796,6 @@
         "created": "2024-05-03 18:27:57",
         "upvotes": 3,
         "id": 52,
-        "summary": "Transitioning from Kandji to Jamf, despite its learning curve, proves beneficial due to Jamf's superior compliance editor and robust patch management. Jamf offers greater pricing flexibility, unlike Kandji, which requires payment for more devices than needed and a mandatory suite purchase. Kandji's persistent bug and inconsistent pricing commitments further highlight Jamf's advantages."
+        "summary": "Switching from Kandji to Jamf improved security policy application and patch management. Jamf offers better pricing flexibility, despite an initial learning curve."
     }
 ]
