@@ -117,30 +117,46 @@ if st.button("Fetch the relevant reviews"):
     col1, col2 = st.columns(2)
     
     with col1:
-        with st.expander("Pros"):
-            st.write(f"""
-            - **Comprehensive Apple Device Management** {linkify_numbers([1, 3, 8])}.
-            - **High Reliability in Large-Scale Environments** {linkify_numbers([4, 5, 8])}.
-            - **Strong Customer Support and Community** {linkify_numbers([6, 12, 36])}
-            - **Efficient Zero-Touch Deployment** {linkify_numbers([1, 4, 6])}.
-            - **Integrated Security Features** {linkify_numbers([3, 5, 11])}.
-            """)
+        # st.markdown(f"""
+        #                 **Pros**
+        #     - **Comprehensive Apple Device Management** {linkify_numbers([1, 3, 8])}.
+        #     - **High Reliability in Large-Scale Environments** {linkify_numbers([4, 5, 8])}.
+        #     - **Strong Customer Support and Community** {linkify_numbers([6, 12, 36])}
+        #     - **Efficient Zero-Touch Deployment** {linkify_numbers([1, 4, 6])}.
+        #     - **Integrated Security Features** {linkify_numbers([3, 5, 11])}.
+        #     """)
+        # Displaying each "Pro" point separately in green
+        st.markdown("<span style='color: green; font-weight: bold;'>**Pros**</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: green;'>- **Comprehensive Apple Device Management** {linkify_numbers([1, 3, 8])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: green;'>- **High Reliability in Large-Scale Environments** {linkify_numbers([4, 5, 8])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: green;'>- **Strong Customer Support and Community** {linkify_numbers([6, 12, 36])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: green;'>- **Efficient Zero-Touch Deployment** {linkify_numbers([1, 4, 6])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: green;'>- **Integrated Security Features** {linkify_numbers([3, 5, 11])}</span>", unsafe_allow_html=True)
+
 
     with col2:
-        with st.expander("Cons"):
-            st.write(f"""
-            - **Steep Learning Curve** {linkify_numbers([3, 12, 18])}.
-            - **High Cost for Advanced Features** {linkify_numbers([1, 6, 15])}.
-            - **Outdated User Interface** {linkify_numbers([5, 12, 25])}.
-            - **Inconsistent Patch Management** {linkify_numbers([2, 16, 24])}.
-            - **Limited Remote Assistance Capabilities** {linkify_numbers([15, 16, 29])}.
-            """)
+        # st.markdown(f"""
+        #                 **Cons**
+        #     - **Steep Learning Curve** {linkify_numbers([3, 12, 18])}.
+        #     - **High Cost for Advanced Features** {linkify_numbers([1, 6, 15])}.
+        #     - **Outdated User Interface** {linkify_numbers([5, 12, 25])}.
+        #     - **Inconsistent Patch Management** {linkify_numbers([2, 16, 24])}.
+        #     - **Limited Remote Assistance Capabilities** {linkify_numbers([15, 16, 29])}.
+        #     """)
+        # Displaying each "Con" point separately in red
+        st.markdown("<span style='color: red; font-weight: bold;'>**Cons**</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: red;'>- **Steep Learning Curve** {linkify_numbers([3, 12, 18])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: red;'>- **High Cost for Advanced Features** {linkify_numbers([1, 6, 15])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: red;'>- **Outdated User Interface** {linkify_numbers([5, 12, 25])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: red;'>- **Inconsistent Patch Management** {linkify_numbers([2, 16, 24])}</span>", unsafe_allow_html=True)
+        st.markdown(f"<span style='color: red;'>- **Limited Remote Assistance Capabilities** {linkify_numbers([15, 16, 29])}</span>", unsafe_allow_html=True)
+
 
 
     st.markdown("______________________")
     st.header("Reviews that matches your profile")
     st.markdown("______________________")
-    with open("final_clean_rev.json", "r") as json_file:
+    with open("final_clean_rev1.json", "r") as json_file:
         file = json.load(json_file)
     for idx, elem in enumerate(file):
         flag=0
