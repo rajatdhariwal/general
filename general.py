@@ -156,7 +156,7 @@ if st.button("Fetch the relevant reviews"):
     st.markdown("______________________")
     st.header("Reviews that matches your profile")
     st.markdown("______________________")
-    with open("final_clean_rev1.json", "r") as json_file:
+    with open("final_clean_rev.json", "r") as json_file:
         file = json.load(json_file)
     for idx, elem in enumerate(file):
         flag=0
